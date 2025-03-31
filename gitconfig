@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 131964698+mikividal@users.noreply.github.com
+	name = Maria Micaela Vidal
